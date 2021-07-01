@@ -1,4 +1,4 @@
-# cet-data-integration
+# data-integration
 
 Serviço responsavel pela realização da integração client to service.
 
